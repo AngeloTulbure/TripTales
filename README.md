@@ -1,16 +1,9 @@
-# trip_tale
+# Trip Tales
 
-A new Flutter project.
+In today's digital era, treasuring the genuine essence of our journeys has become increasingly challenging. Our collective aim with TripTales is to bridge this gap by offering a fresh approach to relieving travel memories.  
 
-## Getting Started
+Travel memories are nowadays often fragmented, leading to the loss of the authentic essence and emotions associated with memorable journeys. The proliferation of random photos, scattered videos, and transient social media content fails to encapsulate the true essence of travel experiences. As time progresses, these memories gradually fade, leaving travellers unable to vividly recall the distinctive moments, emotions, and connections made during their trips.  
 
-This project is a starting point for a Flutter application.
+TripTales allows users to convert their travel memories into engaging narratives. By seamlessly merging images and videos from their journeys into a unified endless canvas, every moment, from 
+tranquil sunsets to vibrant streets, becomes vivid and easily recalled with a quick glance. At the end of the journey the user can see what he/she has done day-by-day, all in the same canvas and relive those moments.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
